@@ -4,6 +4,7 @@ One-shot Learning on Omniglot dataset implementing Prototypical Network.
 
 ## References
 
+```
 @article{DBLP:journals/corr/SnellSZ17,
   author    = {Jake Snell and
                Kevin Swersky and
@@ -19,3 +20,4 @@ One-shot Learning on Omniglot dataset implementing Prototypical Network.
   biburl    = {https://dblp.org/rec/bib/journals/corr/SnellSZ17},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+```
