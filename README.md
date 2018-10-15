@@ -1,6 +1,6 @@
-# Fellowship.ai's challenge: One-shot Learning
+# One-shot Learning
 
-One-shot Learning on Omniglot dataset implementing Prototypical Network.
+One-shot Learning on Omniglot dataset implementing Prototypical Network using PyTorch.
 
 ## References
 
